@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aishwarya Jha 👋
 
-<!--
-**Aishwaryaaaaaaaa/Aishwaryaaaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student interested in the intersection of economics, data science, and human behavior.
 
-Here are some ideas to get you started:
+I enjoy building projects that explore how data can explain real-world financial systems and decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Areas of Interest
+- Financial markets & long-term investing  
+- Inflation & real-world price tracking  
+- Game theory & economic behavior  
+- Data science & machine learning  
+
+## 📊 Projects
+- **DalalSense** → ML-based stock pattern detection  
+- **BudgetGame** → Game theory simulation of the Union Budget  
+- **BasketWatch** → Hyperlocal inflation tracker (real-world data)  
+- **Simudhan** → Financial learning platform for teenagers  
+
+## 🎯 Goal
+To use data science and economics to build tools that make financial systems more understandable and accessible.
+
+---
+
+*Currently building, learning, and experimenting.*
